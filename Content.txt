@@ -1,5 +1,2 @@
-An open-source project for developers to use the working schema of various tech giants in the fields of technological domains as well as contribute for resolving the raising demands of models, database structures, and schema in the back-end of applications.
-
+An open-source project for developers to use working schema of various fields of technological domains as well as for contributing to resolving the rising demands of models, database structures, and schema in the back-end applications.
 A database schema defines how data is organized within a relational database. This is inclusive of logical constraints such as, table names, fields, data types, and the relationships between these entities.
-
-An open-source project for developers to use working schema of various field of technological domains as well as for contributing to resolve the raising demands of models, database structures, and schema in the back-end applications.
