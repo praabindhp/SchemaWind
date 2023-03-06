@@ -14,14 +14,15 @@ SchemaWind defines how data is organized within a relational database and includ
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 
 ## Important Project Links
+### Project Live Demo Link
 
 [https://praabindh.github.io/SchemaWind/](https://praabindh.github.io/SchemaWind/)
 
-## Project GitHub Link
+### Project GitHub Link
 
 [https://github.com/praabindh/SchemaWind](https://github.com/praabindh/SchemaWind)
 
-## Project Documentation Link
+### Project Documentation Link
 
 [https://github.com/praabindh/SchemaWind/blob/main/README.md](https://github.com/praabindh/SchemaWind/blob/main/README.md)
 
