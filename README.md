@@ -83,8 +83,6 @@ https://praabindh.github.io/SchemaWind/
 
 Built During The Internship Phase Of Product Engineer In [Codingmart Technologies](https://codingmart.com/), Coimbatore, Tamil Nadu, India.
 
-<br>
-
 ## FAQ
 
 #### Is This Project Open-Source?
