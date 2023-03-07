@@ -113,4 +113,4 @@ You should signup with SchemaWind, and verify your identity, and once your accou
 
 #### Will I Get The Credits For Contributing?
 
-Of course, verified users would give full credit to the verified schema contributed to the project if any are not found with any plagiarism.
+Of course, verified users would get full credits for the verified schema contributed to the project if any are not found with any plagiarism.
