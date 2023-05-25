@@ -1,0 +1,17 @@
+I Would Like To Introduce My Project 🦋 The SchemaWind - By Praabindh's Org
+
+Various Data Model Schema Portrayed By SchemaWind - 2023
+
+Project Demo Link: https://praabindh.github.io/SchemaWind/
+
+An open-source project for developers to use working schema of various fields of technological domains as well as for contributing to resolving the rising demands of models, database structures, and schema in the back-end applications.
+
+SchemaWind defines how data is organized within a relational database and includes logical constraints such as table names, fields, data types, and the relationships between these entities.
+
+GitHub Project Link: https://github.com/praabindh/SchemaWind
+
+Project Description And Documentation: https://github.com/praabindh/SchemaWind/blob/main/README.md
+
+Project Demo Link: https://praabindh.github.io/SchemaWind/
+
+Built During The Internship Phase Of Product Engineer In Codingmart Technologies, Coimbatore, Tamil Nadu, India.
